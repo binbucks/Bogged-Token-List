@@ -1,0 +1,9 @@
+
+    "address": "0x738a81660670ab2bdb81794fa4e572791f4fc4ab",
+        "chainId": 56,
+        "decimals": "8",
+        "logoURI": "https://www.binbucks.com/logo256.png"
+        "logoURI": "https://www.binbucks.com/logo256.png"
+      },
+      {
+        "name": "Binbucks",
